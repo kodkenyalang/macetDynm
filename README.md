@@ -115,6 +115,3 @@ We welcome contributions to MacetDym! Please check our [CONTRIBUTING.md](./CONTR
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## 📞 Contact
-
-For questions or support, please open an issue on this repository or contact the team at `team@macetdym.io`.
